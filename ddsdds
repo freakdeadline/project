@@ -1,0 +1,26 @@
+[1mdiff --git a/about.html b/about.html[m
+[1mindex 56efbdb..f899c3c 100644[m
+[1m--- a/about.html[m
+[1m+++ b/about.html[m
+[36m@@ -7,6 +7,6 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    [m
+[32m+[m[32m    <h1>name of bitch</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 78a040c..53a5fcb 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -4,7 +4,7 @@[m
+     <meta charset="UTF-8">[m
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[32m+[m[32m    <title>Docment</title>[m
+ </head>[m
+ <body>[m
+ [m
